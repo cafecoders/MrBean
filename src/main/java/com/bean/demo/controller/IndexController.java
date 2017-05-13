@@ -99,5 +99,5 @@ public class IndexController {
     public String error(Exception e){
         return "error:" + e.getMessage();
     }
-    //
+
 }
